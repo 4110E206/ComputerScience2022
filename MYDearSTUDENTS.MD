@@ -337,6 +337,12 @@ GITHUB: https://github.com/4110E206
 
 
 ```
+CHINESE NAME: 歐跟莎
+ENGLISH NAME: Mary Cris O. Bonode
+NICKNAME: Mary
+EMAIL: marycrisbonode06@gmail.com
+GITHUB: https://github.com/4110E206
+
 
 
 ```
